@@ -6,7 +6,7 @@
 
 ## Description
 
-The Recipe Management App is a web application that allows users to browse, search, and manage their favorite recipes. Users can view recipes by category, add recipes to their favorites, and remove recipes from their list of selected favorites. The app utilizes React for the front end, React Query for data fetching and caching, and Axios for making HTTP requests.
+The Recipe Management App is a web application that allows users to browse, search, and manage their favorite recipes. Users can view recipes by category, add recipes to their selected list, and remove recipes from them. The app utilizes React for the front end, React Query for data fetching and caching, and Axios for making HTTP requests.
 
 ## Technologies
 
